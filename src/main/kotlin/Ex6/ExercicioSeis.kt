@@ -2,7 +2,7 @@ package Ex6
 
 fun main() {
     println("Informe um número: ")
-    println(ExercicioSeis().converterRealEmDolar(readln().toDouble()))
+    println("O valor convertido é RS%.2f".format(ExercicioSeis().converterRealEmDolar(readln().toDouble())))
 }
 
 class ExercicioSeis {
