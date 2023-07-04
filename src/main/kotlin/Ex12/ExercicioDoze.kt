@@ -11,7 +11,7 @@ class ExercicioDoze {
         println("Informe seu ano de nascimento: ")
         year = readln().toInt()
 
-        println("Ano: $year  | Idade: $age")
+        println("Ano: $year | Idade: $age")
         while (year < 2023) {
             println("Ano: " + (++year) + " | Idade: " + (++age))
 
