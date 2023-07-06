@@ -1,9 +1,7 @@
 # MODULO 7 - INTRODUÇÃO A KOTLIN
 <hr>
 
-## Os exercícios postados nesse repositório foram feitos a fim de iniciar os conhecimentos sobre a linguagem Kotlin.
-
-### Exercícios:
+## Exercícios:
 1. Faça um programa que leia 5 valores inteiros, armazene-os em um
    vetor, calcule e apresente a soma destes valores.
 
