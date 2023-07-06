@@ -1,10 +1,7 @@
 # MODULO 7 - INTRODUÇÃO A KOTLIN
-
 <hr>
 
-## Os exercícios postados nesse repositório foram feitos a fim de iniciar os conhecimentos sobre a linguagem Kotlin.
-
-### Exercicios:
+## Exercicios:
 
 1. Faça um algoritmo que contenha um método que receba um número do usuário e realize a somatória de todos os números no intervalo de 1 até o número digitado pelo usuário. Exiba o resultado final da somatória.
 
